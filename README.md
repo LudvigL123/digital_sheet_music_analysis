@@ -1,1 +1,1 @@
-# digital_sheet_music_analysis
+# Magistritöö - diginootide analüüs
